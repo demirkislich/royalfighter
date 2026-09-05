@@ -1,0 +1,4 @@
+#ifndef SPIEL_ATTACK_H
+#define SPIEL_ATTACK_H
+
+#endif //SPIEL_ATTACK_H
